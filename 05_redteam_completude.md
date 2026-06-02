@@ -1,23 +1,30 @@
-# AGENTE 05 — RED-TEAM DE COMPLETUDE
-**Releitura adversarial: o que escapou? Empurra o recall além do teto do catálogo.**
+# 05 — RED-TEAM DE COMPLETUDE
 
-> Mecanismo de recall nº 3. Premissa: o catálogo é bom mas não é completo, e a varredura pode ter errado um veredito. Este agente assume que algo material ficou de fora e tenta prová-lo.
+**Releitura adversarial.** Premissa: o catálogo é bom, mas não é completo, e algum veredito pode estar errado. Três checagens.
 
-## Instruções
-Leia `00_catalogo_vicios.md`, `01_base_factual.md` e `04_crivo_ranqueamento.md`. Execute as três checagens:
+## 1. Vícios fora do catálogo
 
-### 1. Vícios fora do catálogo
-Reler a base factual perguntando: há defeito relevante neste edital que NENHUM item do catálogo cobre? Se sim, descrever, ancorar, e propor sua inserção na categoria (A–F) que lhe couber, no mesmo formato dos demais itens.
+| Tipo | Descrição | Documento + cláusula | Âncora | Proposta |
+|---|---|---|---|---|
+| **Vício novo** | **Soberania regulatória sobre a equação contratual.** Norma superveniente da ARISB-MG "poderá disciplinar o procedimento de REAJUSTE e REVISÃO [...] inclusive podendo adotar critérios e parâmetros **diversos do previsto nesta Cláusula**, a estes se sobrepondo" (27.9, 28.6); em caso de divergência entre contrato e atos normativos posteriores, prevalece a norma regulatória nas matérias de competência exclusiva da agência (4.2.5). A concessionária submete-se integralmente à Resolução ARISB-MG 355/2025 e às NR da ANA (EDITAL 5.6.1, 20.14). | Contrato 27.9, 28.6, 4.2.5; EDITAL 5.6.1, 20.14 | art. 9.º, §2.º, da Lei 8.987/1995; lex specialis do contrato × deferência regulatória; segurança jurídica (art. 5.º, XXXVI, CF) | Incluir no **catálogo, categoria D** (alocação de riscos): *"Cláusula que permite à entidade reguladora sobrepor-se a parâmetros econômicos do contrato (reajuste/revisão/indicadores) por norma superveniente, transferindo à concessionária risco regulatório sobre a equação."* Encaminhamento: **alocar/negociar + esclarecer**. |
+| **Vício novo** | **Estreitamento das vias de defesa contra decisões regulatórias que afetam a tarifa.** A decisão da ARISB-MG sobre desempenho "será aplicada **automaticamente**" (Anexo 2, p. 219); a Comissão Técnica **não** pode rever decisões da ARISB-MG no exercício de suas competências (53.6); a arbitragem só cabe para divergência "**exclusivamente relativa ao montante**" do reequilíbrio (36.15.1). | Anexo Contrato 2 (p. 219); Contrato 53.6, 36.15.1 | art. 5.º, XXXV e LV, CF; arts. 23 e 25 da Lei 11.445/2007 | Incluir no **catálogo, categoria A/D**: *"Cláusulas que restringem o controle/revisão de decisões regulatórias com efeito tarifário (aplicação automática + vedação de revisão pela comissão técnica + arbitragem limitada ao quantum)."* Encaminhamento: **alocar/negociar**. |
+| **Vício novo** | **Esvaziamento da proteção contra vícios ocultos.** O risco de vícios ocultos de bens recebidos é da concessionária com rol extenso de exceções que os descaracterizam (constam do edital, eram de conhecimento comum, poderiam ter sido detectados por expertise/meios ordinários), reduzindo a proteção a quase nada. | Matriz J1 | art. 37, §1.º, da Lei 14.133/2021; boa-fé objetiva (art. 422, CC) | Incluir no **catálogo, categoria D**: *"Alocação de vícios ocultos à concessionária com exceções tão amplas que esvaziam a proteção (presunção de cognoscibilidade)."* Encaminhamento: **precificar**. |
+| **Vício novo** | **Custos pré-contratuais concentrados como barreira de entrada.** Antes da assinatura: integralização de 60% do capital (R$ 52,3M), garantia de execução 5% (R$ 87,17M), ressarcimento à SEMAD (R$ 2,59M), remuneração à B3 (R$ 505,66 mil), garantia de proposta (R$ 17,43M) — desembolso elevado e antecipado. | EDITAL 18.3; 11.1; Contrato 34.1 | art. 37, XXI, CF (competitividade); art. 5.º da Lei 14.133/2021 | Incluir no **catálogo, categoria B**: *"Soma de exigências pecuniárias pré-contratuais (capital integralizado + garantias + ressarcimentos) desproporcional ao porte do contrato, restringindo a competição."* Encaminhamento: **precificar / esclarecer cumulatividade (Súmula 275/TCU)**. |
 
-### 2. Vereditos suspeitos
-Revisar a varredura (02): algum item marcado AUSENTE ou N-A que, à luz da base, deveria ser PRESENTE? Apontar e corrigir.
+## 2. Vereditos suspeitos (revisão da varredura 02)
 
-### 3. Combinações
-Há dois ou mais achados que, isolados, são menores, mas combinados formam uma barreira material? (Ex.: vedação a consórcio intragrupo + atestado só em nome próprio = bloqueio sistêmico.) Descrever o efeito agregado.
+| Item | Veredito original | Revisão | Justificativa |
+|---|---|---|---|
+| **D6** (licenciamento) | AUSENTE | **Corrigir para PRESENTE (parcial)** | A mora do órgão (B2) está bem alocada ao concedente, mas o catálogo não captura o **risco de viabilização do novo aterro greenfield**: a concessionária deve **localizar, licenciar (LP/LI/LO via FEAM) e construir** novo aterro até o 49º mês, em área **ainda não definida** (Projeto Básico, p. 87), sob pena de infração grave e exposição à caducidade. Risco de inviabilidade locacional/ambiental (zoneamento, oposição comunitária) na concessionária (Matriz B1). → Sobe ao relatório principal (achado novo de viabilidade). |
+| **A3** (habilitação) | AUSENTE | **Manter AUSENTE, com ressalva** | O impedimento estendido a ex-quadros de seis entidades nos 360 dias anteriores é amplo; ancorável em conflito de interesses, mas convém **monitorar** se afasta indevidamente profissionais do setor. |
+| **C1** (receita acessória) | AUSENTE | **Manter AUSENTE** | Correto: o PN não embute receita extraordinária. O ônus inverso (custo-certo/receita-incerta) já foi capturado como achado 9 do agente 04. |
 
-## Saída
-| Tipo (vício novo / veredito corrigido / combinação) | Descrição | Documento + cláusula | Âncora | Proposta (incluir no relatório principal / no catálogo) |
+## 3. Combinações (achados que, isolados, são menores; combinados, formam barreira material)
 
-> Os achados confirmados aqui retornam ao crivo do agente 04 (ou são incorporados direto pela consolidação, se já vierem ancorados e materiais).
+| Combinação | Componentes | Efeito agregado | Encaminhamento |
+|---|---|---|---|
+| **C-1 — Risco sistêmico de viabilização do novo aterro** | Aterro greenfield obrigatório até o 49º mês (Caderno) + área não definida (Projeto Básico) + licenciamento e passivo a cargo da concessionária (48.29) + infração grave por não conclusão (37.19.1) + caducidade por desempenho | Se a concessionária não conseguir sitiar/licenciar o aterro a tempo (NIMBY, zoneamento, mora real), acumula penalidade grave, perda de FA e exposição à caducidade — sem que o ativo seja sequer reversível/indenizável. Risco existencial concentrado no biênio 3–4. | **Precificar + alocar/negociar** (gatilho de reequilíbrio/prazo por mora não imputável) |
+| **C-2 — Compressão estrutural da margem** | Receita atada ao volume de água (C2) + reajuste por IRT, não por custo real (D2) + inadimplência 16,6% no ano 1 na concessionária (D4) + FA reduz tarifa até 15% (E1) + receita de subprodutos excluída da equação (achado 9) + WACC 11,69% questionado pela ARISB (C6) | Cada item é "precificar" isolado; somados, pressionam a **receita efetiva para baixo** enquanto os custos (volume, câmbio, inflação) sobem sem válvula de reequilíbrio — corroborando a dúvida da própria ARISB-MG sobre a suficiência da tarifa de referência. **A tarifa-base de R$ 2,8567 pode ser insuficiente; a proponente deve refazer o fluxo antes de definir o deságio.** | **Precificar (decisão de lance) + impugnar (modicidade × equilíbrio)** |
+| **C-3 — Assimetria de defesa na governança** | Decisão de desempenho aplicada automaticamente (Anexo 2) + Comissão Técnica não revê decisões da ARISB (53.6) + arbitragem só para o quantum (36.15.1) + norma da ARISB pode sobrepor-se ao contrato (27.9, 28.6) | A concessionária tem via estreita para contestar decisões regulatórias que reduzem a tarifa (FA) ou alteram a equação, concentrando poder na agência sem contrapeso contratual equivalente. | **Alocar/negociar + esclarecer** |
 
-Salve como `05_redteam_completude.md`.
+> Os achados confirmados aqui (vícios novos 1–4; correção do veredito D6; combinações C-1, C-2, C-3) retornam ao crivo do agente 04 e são incorporados pela consolidação (06), pois já vêm ancorados e materiais. Os quatro vícios novos são propostos para atualização do catálogo (etapa 5 do agente 06).

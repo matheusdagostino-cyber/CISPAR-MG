@@ -1,21 +1,24 @@
-# AGENTE 03 — CONTRADIÇÕES CROSS-DOCUMENTO
-**Confronto sistemático entre documentos. Captura o que cai nas costuras dos domínios.**
+# 03 — CONTRADIÇÕES CROSS-DOCUMENTO
 
-> Mecanismo de recall nº 2. A varredura (02) olha cada item isoladamente; aqui o trabalho é o oposto: cruzar afirmações de documentos diferentes para achar incompatibilidades que nenhum item isolado revela.
-
-## Instruções
-Leia `01_base_factual.md` (tabelas 1, 2 e 5). Monte os confrontos abaixo. Para cada par, declarar se há contradição e transcrever os dois trechos conflitantes.
-
-### Pares obrigatórios
-1. **PN × Contrato** — toda receita/premissa do PN tem tratamento compatível no contrato? (Foco: receita acessória tratada como certa no PN e como álea no contrato.)
-2. **Matriz de Riscos × Contrato** — para cada risco da matriz, há cláusula de reequilíbrio que o contradiga? (Cláusula-pega.)
-3. **Caderno de Encargos × PN** — obrigação tratada como facultativa no caderno mas pressuposta como certa no PN (ou vice-versa)?
-4. **Contrato × Caderno** — prazos, metas e penalidades batem entre os dois?
-5. **Edital × Contrato** — condições de habilitação e de execução são coerentes?
-6. **Definições × uso** — termo definido usado com sentido diverso (puxar da tabela 3 da base).
+**Confronto sistemático entre documentos.** Mecanismo de recall n.º 2: o que cai nas costuras. Detecta-se aqui; o efeito jurídico e o encaminhamento ficam para o 04 e o 06.
 
 | Par | Há contradição? | Trecho A (doc + cláusula) | Trecho B (doc + cláusula) | Natureza do conflito |
+|---|---|---|---|---|
+| **1. PN × Contrato** (receita acessória) | **Não (coerente)** | PN, p. 187: "As receitas extraordinárias [...] **não foram estimadas** na presente modelagem [...] devido a sua imprevisibilidade"; fluxo registra R$ 0,00 | Contrato 23.12: receitas extraordinárias "não constituem elemento necessário à manutenção do EQUILÍBRIO ECONÔMICO-FINANCEIRO"; 29.6: se inferiores, sem reequilíbrio | Coerência **a favor** do concedente: o PN não embute receita extraordinária na tarifa. **Costura inversa:** metas obrigatórias de reciclagem/compostagem (SMD ID2.1/ID2.2) e seus custos estão no OPEX, mas a receita de venda dos recicláveis/composto é "extraordinária" e compartilhada (5%). A proponente assume o **custo** do desvio de aterro sem a **receita** correspondente na equação. |
+| **2. Matriz de Riscos × Contrato** (cláusula-pega) | **Sim** | Matriz H3 (inflação ≠ índice), H4 (câmbio), G2 (volume de RSU), C7/C8 (inadimplência) → **Concessionária** | Contrato 36.2.1: "Nenhuma PARTE fará jus ao REEQUILÍBRIO [...] nos casos de materialização de risco a ela atribuído"; reajuste só por IRT (Anexo 4, 5.1.1) | Riscos de custo (inflação real divergente do IRT, câmbio, volume) alocados à concessionária **e** excluídos de reequilíbrio, **e** sem pass-through de custo real — o reajuste é por cesta de índices (30% INPC + 70% IPCA). Clássica cláusula-pega de inflação de custos. |
+| **3. Caderno × PN** (obrigação certa × custo) | **Sim** | Caderno: UVR obrigatória (Fase 3A, 25º mês), coleta de orgânicos (Fase 3C, 85º mês), coleta seletiva 100% áreas rurais; novo aterro com captura de biogás | PN: receita de biogás/CDR/composto/carbono = R$ 0,00 no fluxo (p. 187) | A rota tecnológica é **obrigação certa** (custo no OPEX/CAPEX), mas os subprodutos que ela gera (biogás, composto, recicláveis, créditos de carbono) são tratados como receita **eventual** (extraordinária). Assimetria custo-certo / receita-incerta. |
+| **4. Contrato × Caderno** (prazos/metas/penalidades) | **Sim (menor)** | Caderno (via parecer ARISB-MG/xlsx): análise gravimétrica "frequência mínima **semestral**" (item 6.2 do Caderno) | SMD/Caderno: em outra passagem, "frequência mínima **anual**" (versão anterior, corrigida) | Inconsistência de periodicidade da gravimetria entre versões do Caderno (corrigida para semestral). Conflito formal residual. |
+| **5. Edital × Contrato** (habilitação × execução) | **Sim (menor)** | EDITAL 18.3.7: ressarcimento à SEMAD "R$ 2.587.800,00" | xlsx/parecer: minuta anterior trazia "R$ 2.724.000,00" | Divergência de valor entre versões (resolvida no edital final). Sem conflito vivo, mas registra-se a oscilação. |
+| **6. Definições × uso** | **Sim (menor)** | EDITAL 1.1.79: "TARIFA DE RPU" | Anexo Contrato 4, 4.2.2: fórmula "TP = TARIFA DE **RSU**" | Termo definido (RPU) usado com sigla divergente (RSU) na fórmula tarifária. Erro material de redação. |
 
-> Detectar a contradição aqui; o efeito jurídico e o encaminhamento ficam para o crivo (04) e a consolidação (06).
+## Contradições adicionais detectadas (fora dos pares obrigatórios)
 
-Salve como `03_contradicoes.md`.
+| Tema | Trecho A | Trecho B | Natureza |
+|---|---|---|---|
+| **Capacidade da UTM** | Estudos Socioambientais / Projeto Básico: UTM dimensionada para **220 t/dia** | PN, Quadro 13: "UTM dimensionada para **450 t/dia**" | Divergência relevante de dimensionamento entre o Projeto Básico e o Plano de Negócios — afeta CAPEX/OPEX de tratamento e a aderência do atestado de 100 t/dia. |
+| **Coeficiente de geração** | Anexo Contrato 4, 6.2.1: 4,6231 kg/m³ (na assinatura) | PN/Matriz de risco: 4,5741 kg/m³ | Parâmetro-chave da revisão quadrienal divergente entre contrato e modelagem. |
+| **Inclusão de novos municípios** | Contrato 23.10 / 36.18: previsão de municípios adicionais e de sua saída/inclusão | Decreto 11.599/2023, art. 6.º, §16 (apontado pela ARISB-MG): "homologada a licitação [...]" veda inclusão de municípios após a homologação | Tensão entre a previsão contratual de inclusão de municípios adicionais e a vedação do decreto da prestação regionalizada — apontada pela própria agência reguladora no parecer. |
+| **Novo aterro: vida útil × prazo** | Caderno/Projeto Básico: vida útil do aterro 26 anos (anos 5–30) | Contrato 48.29: aterro **não reversível**, encerramento e monitoramento "mesmo finda a CONCESSÃO" | A vida útil do aterro pode ultrapassar o prazo da concessão; sendo não reversível, a concessionária retém o ativo e o passivo de encerramento/monitoramento pós-contratual, sem indenização. |
+| **WACC × custo de oportunidade** | PN: WACC real 11,69% (= TIR alvo) | Parecer ARISB-MG: WACC equivale a "83,86% da LTN de 10 anos"; sugere WACC regulatório paramétrico | A própria agência reguladora questionou a suficiência da taxa de retorno frente ao custo de oportunidade de títulos públicos — premissa a confrontar pela proponente. |
+
+> Encaminhamento: as contradições "Sim" materiais (pares 2 e 3; aterro não reversível; UTM 220 vs 450) seguem ao crivo do agente 04. As menores (pares 4, 5, 6) vão ao apêndice "Menores".

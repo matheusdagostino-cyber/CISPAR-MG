@@ -1,36 +1,37 @@
-# AGENTE 04 — CRIVO E RANQUEAMENTO
-**Aplica os dois crivos do `CLAUDE.md`. Mata o ruído antes do relatório.**
+# 04 — CRIVO E RANQUEAMENTO
 
-> Recebe o material bruto dos agentes 02 e 03 (achados PRESENTES + contradições) e decide o que merece o relatório principal. É aqui que "sobra ruído" é resolvido.
+**Material bruto dos agentes 02 (PRESENTES) e 03 (contradições) submetido aos dois crivos do `CLAUDE.md`.** Crivo 1 (materialidade): muda uma decisão concreta? Crivo 2 (ancoragem): tem base? Sobreviventes ranqueados por impacto, com precedente buscado.
 
-## Instruções
-Leia `02_varredura_catalogo.md` e `03_contradicoes.md`. Reúna todos os achados PRESENTES e todas as contradições confirmadas. Para cada um, aplique em sequência:
+> Modalidade: concessão comum. Foro: MG → TCU/STJ + **TCE-MG** (sem TCM). Onde o portal do TCE-MG não pôde ser confirmado nesta interface, o achado é registrado com sua âncora legal e o precedente marcado "verificar no portal".
 
-### Crivo 1 — Materialidade
-O achado muda uma decisão concreta?
-- **Impugnar** — vício de legalidade;
-- **Precificar** — onera a proposta;
-- **Alocar/negociar** — matéria de risco/reequilíbrio;
-- **Habilitar-se** — afeta a aptidão de participar.
+## Relatório principal (achados materiais, ranqueados)
 
-Se NÃO muda nenhuma decisão → mover para o apêndice **"Menores"** (lista nua, sem análise). Os itens da seção F do catálogo caem aqui por padrão, salvo se gerarem efeito jurídico material.
+| # | Achado | Origem | Documento + cláusula | Decisão | Âncora | Precedente | Contra-argumento |
+|---|---|---|---|---|---|---|---|
+| **1** | **Inadimplência integral na concessionária, com 16,6% projetado no ano 1 e sem Fator Incremental / banda de recomposição** (a banda de 3,7467% foi retirada na versão final) | 02-D4 | Matriz C7; PN Quadro 21 | **Precificar** | Construção interpretativa — equação econômico-financeira, art. 9.º da Lei 8.987/1995 | STJ e TCE-MG sobre repasse de inadimplência em tarifa de RSU — **verificar no portal**; sem precedente direto confirmado | Base histórica de IPTU de Patos de Minas; a tarifa já internaliza a curva de inadimplência. **Réplica:** a internalização não elimina o descoberto de caixa do ano 1, agravado pelo cofaturamento ainda não consolidado. |
+| **2** | **Cláusula-pega de custos**: inflação real ≠ IRT (H3), câmbio (H4) e volume de RSU (G2) alocados à concessionária **e** excluídos de reequilíbrio (36.2.1); reajuste só por cesta de índices | 02-D2 / 03-par 2 | Matriz H3/H4/G2; Contrato 36.2.1; Anexo 4, 5.1.1 | **Alocar/negociar** | Construção interpretativa — art. 9.º, §2.º, da Lei 8.987/1995; diretriz da repartição objetiva de riscos | TCU sobre matriz de riscos e equilíbrio em concessões — âncora legal; **verificar inteiro teor** | Alocação objetiva típica de concessão; o privado precifica. **Réplica:** o reajuste por IRT não captura variações reais de custo (combustível, câmbio de equipamento), criando descasamento estrutural sem válvula de reequilíbrio. |
+| **3** | **Novo aterro não reversível, com encerramento e monitoramento perpétuos a cargo da concessionária e sem indenização**; vida útil (26 anos) pode exceder o prazo | 02-C3 + 02-E6 / 03 | Contrato 48.29; Caderno 11.1; Anexo Contrato 6 | **Precificar** | Dispositivo expresso — art. 35, §§1.º–4.º, e art. 36 da Lei 8.987/1995; art. 13, Lei 12.305/2010 | TCU/TCE-MG sobre bens reversíveis e encerramento de aterro — **verificar no portal** | A concessionária retém o ativo. **Réplica:** o "ativo" é um aterro encerrado — passivo ambiental de longo prazo (drenagem de chorume/gases, monitoramento) que sobrevive ao contrato sem fonte de custeio. |
+| **4** | **SMD com tripla repercussão da mesma falha**: redução tarifária até 15% (FA 0,850) + multa 0,5% + caducidade se NGD <70% por 3 anos; metas socioambientais binárias dependentes de comportamento do usuário | 02-E1 | Contrato 12.3, 37.21, 43.5.3; Anexo 2 (Q.13); Anexo 4 (Tab.3) | **Precificar / impugnar** | Construção interpretativa — art. 23, parágrafo único, e art. 38 da Lei 8.987/1995; razoabilidade/proporcionalidade | TCU sobre proporcionalidade de descontos por desempenho — âncora legal; **verificar** | Sistema de indução de comportamento; reequilíbrio assegurado em revisão. **Réplica:** cumular desconto tarifário + multa + caducidade pela mesma falha, com metas de reciclagem dependentes de separação na fonte (fora do controle da concessionária), é desproporcional. |
+| **5** | **Gap de caixa na fase inicial**: CAPEX do aterro (R$ 25,3M, ano 5) e UVR (ano 3) antecipados; Fase 1 (200 dias) sem tarifa; inadimplência inicial de 16,6% | 02-C5 | Contrato 9.1; PN Quadros 10, 21 | **Precificar** | Construção interpretativa — equação econômico-financeira, arts. 9.º e 10 da Lei 8.987/1995 | — (premissa de modelagem) | Payback de 10 anos e financiamento de longo prazo absorvem. **Réplica:** o serviço da dívida e o capital de giro do biênio inicial pressionam o fluxo antes do ramp-up de arrecadação. |
+| **6** | **Proxy de cobrança = volume de água faturado**, descolado da geração efetiva de resíduo; correção apenas pelo coeficiente de geração (banda 3%, quadrienal) | 02-C2 / 03-par adicional | Anexo Contrato 4, 3.2.1, 6.2 | **Precificar** | Construção interpretativa — art. 9.º da Lei 8.987/1995 | TCE-MG/ANA sobre proxy de água em tarifa de RSU — **verificar no portal**; cofaturamento ancorado na Lei 11.445/2007 e NR ANA | Proxy usual, auditável e de baixo custo de cobrança. **Réplica:** divergência água-resíduo só se corrige a cada 4 anos e dentro de banda de 3%; consumo de água não acompanha geração de resíduo per capita. |
+| **7** | **WACC/TIR de 11,69% real** questionado pela própria ARISB-MG (≈83,86% da LTN de 10 anos); sugerido WACC regulatório paramétrico | 02-C6 / 03 | PN Quadros 34–35; Parecer ARISB-MG | **Precificar** | **Hipótese a confirmar** — sem âncora normativa direta; confrontar com benchmark de mercado | — (benchmark setorial) | Metodologia CAPM/Damodaran (setor Environmental & Waste Services). **Réplica:** a remuneração de referência pode não cobrir o custo de capital real do projeto dado o conjunto de riscos transferidos — a proponente deve refazer a conta. |
+| **8** | **Dependência do cofaturamento com a prestadora de água (COPASA)**, não controlada pela concessionária; risco de recusa/custo do cofaturamento na concessionária | 02-D3 | Matriz C3; Contrato 22.3.5; Anexo 4, 2.5 | **Alocar/negociar** | Dispositivo + construção — Lei 11.445/2007; NR 1/ANA (Res. 79/2021); NR 13/ANA (Res. 271/2025) — **confirmar item vigente** | ANA NR sobre cofaturamento (confirmado existir); jurisprudência sobre "venda casada" — **verificar** | Há fallback (ARISB fixa tarifa; reequilíbrio se faltarem dados >12 meses). **Réplica:** o fallback cobre indisponibilidade de dados, não a recusa comercial da prestadora de água nem o custo do convênio — risco de terceiro fora do controle da concessionária. |
+| **9** | **Assimetria custo-certo / receita-incerta dos subprodutos**: rota tecnológica obrigatória (UVR, compostagem, biogás, metas de reciclagem) é custo na equação; a receita dos subprodutos é "extraordinária" e compartilhada (5%) | 03-par 3 | Caderno; Contrato 23.7, 23.12; PN p. 187 | **Precificar** | Construção interpretativa — art. 11 da Lei 8.987/1995 | — | Conservadorismo do modelo (não conta receita incerta). **Réplica:** transfere à concessionária o ônus integral do desvio de aterro sem reconhecer a receita correspondente na tarifa — onera a proposta. |
+| **10** | **Inadimplência do RPU dos 9 municípios alocada à concessionária** (C8), com capacidade fiscal heterogênea; reequilíbrio por inadimplência de município não pode impactar tarifa (36.17) | 02-D5 | Matriz C8; Contrato 22.5, 36.17 | **Alocar/negociar** | Construção — Lei 11.107/2005; matriz de riscos | TCE-MG sobre inadimplência de entes consorciados — **verificar no portal** | Faturamento direto e gestão de cobrança da concessionária. **Réplica:** o RPU é pago por prefeituras (não usuários); o risco de crédito do ente público difere do risco comercial e deveria ser do concedente. |
+| **11** | **Risco cambial integral na concessionária** (H4) em CAPEX com componente importado (triagem mecanizada, compactadores), sem cláusula de recomposição | 02-D9 | Matriz H4 | **Precificar** | Construção — matriz de riscos | — | Risco financeiro típico do privado. **Réplica:** equipamento de UVR importado sem hedge contratual onera o CAPEX. |
+| **12** | **Risco de volume de RSU (custo) sem banda do lado dos custos** (só há banda de 3% no coeficiente de geração, do lado da receita) | 02-D7 | Matriz G2; Anexo 4, 6.2.3 | **Precificar** | Construção — art. 9.º da Lei 8.987/1995 | — | Receita acompanha geração via revisão quadrienal. **Réplica:** custos de coleta/transporte/disposição variam com o volume real, sem tolerância simétrica. |
+| **13** | **"Parcela de maior relevância" não definida pelo critério dos 4%** na qualificação técnica; redação genérica | 02-B2 | Anexo Edital 2, A | **Impugnar / esclarecer** | Dispositivo expresso — art. 67, §1.º e §2.º, da Lei 14.133/2021 (até 50%; ≥4%); **Súmula 263/TCU** (confirmada); **Acórdão 1.604/2025-TCU-Plenário** (verificar inteiro teor) | Súmula 263/TCU; art. 67, §2.º (verificados) | Os quantitativos objetivos (110/100/100 t/dia, <50% do total) já delimitam a exigência. **Réplica:** sem definição expressa da parcela de maior relevância e do piso de 4%, a exigência fica sujeita a leitura ampliativa na fase de habilitação. |
+| **14** | **Valor mínimo de indenização em branco** ("R$ [•]") | 02-F3 | Anexo Edital, p. 154; Anexo Contrato 6 | **Esclarecer / impugnar** | Dispositivo — art. 23, V, e art. 36 da Lei 8.987/1995 | — | Campo de modelo a preencher. **Réplica:** sem o parâmetro de indenização, a precificação do risco de extinção antecipada fica prejudicada. |
+| **15** | **Divergência de dimensionamento da UTM: 220 t/dia (Projeto Básico) × 450 t/dia (PN)** | 03-adicional | Projeto Básico vs PN Quadro 13 | **Esclarecer / precificar** | Construção — vinculação entre Projeto Básico e PN | — | Versões de estudo. **Réplica:** o dimensionamento define CAPEX/OPEX de tratamento e a aderência do atestado de 100 t/dia — exige esclarecimento. |
+| **16** | **Tensão entre inclusão de municípios adicionais (Contrato 23.10/36.18) e a vedação do art. 6.º, §16, do Decreto 11.599/2023** (apontada pela ARISB-MG) | 03-adicional | Contrato 23.10, 36.18; Decreto 11.599/2023 | **Esclarecer** | Dispositivo — art. 6.º, §16, do Decreto 11.599/2023 | — | Inclusão sujeita a autorização e ingresso regular no consórcio. **Réplica:** o decreto veda a inclusão após a homologação — convém esclarecer o alcance para fins de receita extraordinária. |
 
-### Crivo 2 — Ancoragem
-O achado material tem base?
-- *dispositivo expresso* / *construção interpretativa* → mantém;
-- sem âncora normativa E sem cláusula concreta citável → marcar **hipótese a confirmar** (não é descartado, mas vai sinalizado).
+## Apêndice "Menores" (lista nua, sem análise)
 
-### Verificação jurisprudencial dos sobreviventes
-Para cada achado que passou os dois crivos e ainda não teve precedente buscado no agente 02, buscar agora conforme a âncora — TCU/STJ **e o TCE/TCM da UF da concessão** —, com doutrina de acesso aberto onde faltar jurisprudência direta, aplicando o fallback de portal indisponível do `CLAUDE.md`.
-
-### Ranqueamento
-Ordenar os sobreviventes por impacto econômico/jurídico (maior primeiro), dentro de cada tipo de decisão.
-
-## Saída
-
-**Relatório principal** (achados materiais, ranqueados):
-| # | Achado | Origem (catálogo / contradição) | Documento + cláusula | Decisão (impugnar/precificar/alocar/habilitar) | Âncora | Precedente (ou "não localizado" / "portal indisponível") | Contra-argumento |
-
-**Apêndice Menores** (lista nua, sem análise).
-
-Salve como `04_crivo_ranqueamento.md`.
+- F1 — Remissões quebradas: "Erro! Fonte de referência não encontrada" (Matriz, itens A.2/E.2/F.1); "Cláusula 3737" (→37); "subcláusula 31.3" (→34.3); "cláusula 24" para reajuste (→26); cl. 9.3 remete à 7.2.
+- F2 — "TP = TARIFA DE RSU" (deveria RPU), Anexo Contrato 4, 4.2.2.
+- F2/03 — Coeficiente de geração 4,6231 (contrato) × 4,5741 (PN). *(Sobe a "esclarecer" se a banda de 3% o tornar material — ver achado 6.)*
+- F4 — Ressarcimento à SEMAD: R$ 2.587.800,00 (edital) × R$ 2.724.000,00 (minuta anterior).
+- E4 — Mecanismo de inclusão de catadores (UTRs, PIOCC, verba anual) — disciplinado; custo identificado.
+- A3 (nota) — Impedimento estendido a ex-quadros de CISPAR/BDMG/CODEMGE/SEMAD/BID/ARISB nos 360 dias (amplo, mas ancorável).
+- 03-par 4 — Periodicidade da gravimetria (semestral × anual entre versões — corrigida).
+- 157 campos `[•]` nos modelos do Anexo do Edital 1 (próprios dos modelos; não substantivos).
