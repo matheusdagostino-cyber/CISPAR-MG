@@ -21,7 +21,7 @@
 | # | Veredito | Documento + cláusula | Prova | Âncora | Contra-argumento |
 |---|---|---|---|---|---|
 | **B1** ⚑ | **AUSENTE** | Anexo Edital 2, A.1.1 | Atestado exige experiência específica em **RSU** (coleta de RSD, triagem mecanizada, disposição final), não "infraestrutura genérica"; quantitativos 110/100/100 t/dia ante geração de 226 t/dia (~48%) | art. 67 da Lei 14.133/2021; **Súmula 263/TCU** (confirmada) | Experiência setorial é pertinente ao objeto; quantitativos abaixo de 50% do total. (Nota: quantitativos no teto dos 50% — monitorar.) |
-| **B2** ⚑ | **PRESENTE** | Anexo Edital 2, A | "comprovando a execução dos serviços similares [...] equivalentes ou superiores aos que **tem maior relevância técnica e valor significativo do objeto**" | art. 67, §1.º e §2.º, da Lei 14.133/2021 (até 50%; parcela ≥4%); **Súmula 263/TCU**; **Acórdão 1.604/2025-TCU-Plenário** (verificar inteiro teor) | A "parcela de maior relevância" não é definida com o critério dos 4%; redação genérica permite leitura ampliativa. Administração dirá que os quantitativos objetivos (110/100/100) já delimitam a exigência. |
+| **B2** ⚑ | **AUSENTE** | Anexo Edital 2, A.1.1 | O edital **lista** as parcelas (coleta, triagem/tratamento, disposição) e fixa quantitativos (110/100/100 t/dia), **abaixo de 50%** dos totais de referência (≈226/220/217 t/dia) | art. 67, §1.º e §2.º, da Lei 14.133/2021; **Súmula 263/TCU**; **TCE-MG, Proc. 1166966** | Exigência limitada às parcelas de maior relevância e dentro do teto de 50%; admite ainda somatório de 3 atestados e subcontratação. (Resíduo menor: confirmar a base do "tratamento" ante a divergência da UTM 220×450 — vira esclarecimento.) |
 | **B3** ⚑ | **AUSENTE** | EDITAL 18.3.4.1; Anexo Edital 2 (Tab. 5) | Capital social mínimo R$ 87.169.936,20 = **5%** do valor estimado (R$ 1,743 bi); sem exigência de índices ou faturamento mínimo | art. 69, §4.º, da Lei 14.133/2021 (teto 10%); **Súmula 275/TCU** | Capital social em 5%, metade do teto; ausência de índices é favorável. (Nota: confrontar cumulatividade com garantias — Súmula 275/TCU.) |
 | **B4** | **AUSENTE** | Anexo Edital 2, A.1.4, A.1.5, A.1.6 | Soma de até 3 atestados; atestado de consorciada, controlada, controladora e coligada admitidos | art. 67, §§10 e 11, da Lei 14.133/2021; Acórdão 2444/2012-TCU-Plenário | Edital amplia, não restringe, o uso de atestados. |
 | **B5** | **AUSENTE** | EDITAL 11.1; Contrato 34.1 | Garantia de proposta 1% (R$ 17,43M); execução 5%/2,5% | art. 58, §1.º; arts. 96 a 102 da Lei 14.133/2021 | Percentuais dentro dos tetos legais. |
@@ -82,6 +82,6 @@
 ---
 
 ### Resumo da varredura
-- **PRESENTES:** B2, C2, C3, C5, C6, D1, D2, D3, D4, D5, D7, D9, E1, E4, E6, F1, F2, F3, F4.
-- **AUSENTES:** A1, A2, A3, A4, A5, B1, B3, B4, B5, B6, B7, C1, C4, D6, D8, E2, E3, E5.
+- **PRESENTES:** C2, C3, C5, C6, D1, D2, D3, D4, D5, D7, D9, E1, E4, E6, F1, F2, F3, F4.
+- **AUSENTES:** A1, A2, A3, A4, A5, B1, B2, B3, B4, B5, B6, B7, C1, C4, D6, D8, E2, E3, E5.
 - **N-A por modalidade:** A6, A7, B8, C7, C8, C9, C10, D10.
