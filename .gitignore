@@ -1,0 +1,10 @@
+# Segredos — nunca versionar
+.env
+*.key
+secrets/
+
+# Trabalho temporário
+_txt/
+__pycache__/
+*.pyc
+/tmp/
