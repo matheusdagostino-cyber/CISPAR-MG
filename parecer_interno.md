@@ -5,6 +5,8 @@
 > **Uso interno.** Documento de fundamentação destinado à decisão sobre impugnação/esclarecimento; não é a peça. Termos genéricos por confidencialidade.
 > **Escopo desta versão.** Por orientação, **não** se tratam aqui as questões de *aglutinação do objeto* (não parcelamento) nem de *campo em branco* (placeholder de indenização). O foco recai sobre três irregularidades: **(A) cumulatividade de exigências econômico-financeiras; (B) sistema de mensuração de desempenho — tripla incidência e responsabilização por fato de terceiro; (C) prazo de concessão dissociado da amortização.**
 > **Sobre a jurisprudência citada.** Ao fim de cada tópico há a seção *“Íntegra do trecho utilizado”*, que reproduz **o texto efetivamente consultado** na base de jurisprudência (Lei na Mão TCE). Adverte-se que, nos itens do TCU classificados como *jurisprudência selecionada*, o texto disponível é **resumo/ enunciado** (não a ementa literal), e a base não forneceu link — o **inteiro teor e o número do acórdão devem ser confirmados no portal do TCU** antes do uso em peça. As **Súmulas 247, 263 e 275/TCU** foram conferidas em fonte oficial.
+>
+> **Textos literais (in albis).** Os trechos reproduzidos neste parecer sob "Íntegra do trecho utilizado", quando provenientes do campo de resumo da API, são **paráfrases do provedor — não são literais**. Os **textos verbatim de fonte oficial** que foi possível obter estão consolidados em **`juris_integra.md`** (Súmulas 275/247/263/TCU e a ementa integral da Consulta TCE-SC n.º 1071/2022 — Proc. @CON 22/00308552). Antes do protocolo, substituir os resumos pelo **inteiro teor oficial**.
 
 ---
 
