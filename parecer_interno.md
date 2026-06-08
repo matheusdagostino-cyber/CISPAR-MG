@@ -81,19 +81,18 @@ Acresce que metas socioambientais (reciclagem de secos — ID2.2; orgânicos a t
 **(b) Responsabilização por fato de terceiro.** Metas de reciclagem/compostagem dependem da **adesão do usuário** à coleta seletiva. Imputar à concessionária redução tarifária, multa e risco de caducidade por resultado que **depende de terceiro** viola: (i) a **alocação objetiva de riscos** (cada parte deve responder pelo risco que pode gerenciar); e (ii) a **culpabilidade** (não há sanção sem conduta imputável ao sancionado). A cláusula deveria **neutralizar** do cálculo os desvios não imputáveis à concessionária.
 
 ### B.4. Íntegra dos trechos utilizados
-O princípio do ***non bis in idem*** e a **detração de sanções** sobre a mesma base fática são reiteradamente aplicados pelo controle externo. Trechos consultados na base:
+O princípio do ***non bis in idem*** e a **detração de sanções** sobre a mesma base fática são reiteradamente aplicados pelo controle externo. **Ementas reproduzidas na íntegra (texto oficial extraído dos PDFs do TCE-MS):**
 
-**TCE-MS — Acórdão n.º 595/2021 (sessão de 02/09/2021), Rel. Cons. Waldir Neves Barbosa:**
-> *“[…] Apesar do reconhecimento da irregularidade, não foi imposta penalidade de multa, em respeito ao Princípio do no bis in idem, que proíbe a dupla punição pelo mesmo fato. […]”*
-> Leis: Lei 8.666/1993; CF/88 art. 37. Fonte: jurisprudencia-api.tce.ms.gov.br (Alfresco) — conferir inteiro teor.
+**TCE-MS — Acórdão n.º 595/2021, Rel. Cons. Waldir Neves Barbosa (Prefeitura Municipal de Três Lagoas):**
+> "CONTRATO ADMINISTRATIVO – FORNECIMENTO DE MEDICAMENTOS – TERMO ADITIVO – FORMALIZAÇÃO – CONTAMINAÇÃO PELA ILICITUDE DA PRIMEIRA FASE – IRREGULARIDADE – PRINCÍPIO DO NO BIS IN IDEM – PENALIDADE NÃO IMPOSTA. A ilicitude do procedimento licitatório atrai o reconhecimento da irregularidade da formalização do contrato e do termo aditivo em razão do vínculo direto e legal, porém sem imposição da sanção de multa, que aplicada pela ilegalidade do certame, em respeito ao Princípio do no bis in idem."
 
-**TCE-MS — Acórdão n.º 441/2021 (sessão de 01/07/2021), Rel. Cons. Waldir Neves Barbosa:**
-> *“[…] não foi imposta multa em respeito ao princípio do ‘no bis in idem’, já que a sanção foi aplicada ao ordenador de despesas na fase anterior. […]”*
-> Fonte: jurisprudencia-api.tce.ms.gov.br (Alfresco) — conferir inteiro teor.
+**TCE-MS — Acórdão n.º 441/2021, Rel. Cons. Waldir Neves Barbosa (Prefeitura Municipal de Corguinho) — item 1 da ementa:**
+> "1. O comando posto no art. 49, § 2º, e art. 59, Parágrafo único, da Lei Federal nº 8.666/93, é claro ao afirmar que a nulidade do procedimento licitatório induz a nulidade do contrato. Verificada a reprovação do procedimento licitatório, não há como se chancelar o contrato administrativo dele decorrente, que deve ser reconhecido como irregular, mas sem a imposição de multa quanto a este, em respeito ao Princípio do no bis is idem, diante da aplicação da sanção ao ordenador de despesas no julgamento contrário da 1ª fase."
 
-**TCE-MS — Acórdão n.º 487/2022 (sessão de 06/10/2022), Rel. Cons. Marcio Campos Monteiro:**
-> *“[…] não aplicou nova sanção ao responsável, respeitando o princípio do non bis in idem. […]”*
-> Fonte: jurisprudencia-api.tce.ms.gov.br (Alfresco) — conferir inteiro teor.
+**TCE-MS — Acórdão n.º 487/2022, Rel. Cons. Marcio Campos Monteiro (Prefeitura Municipal de Sete Quedas) — item 1 da ementa:**
+> "1. A irregularidade do procedimento licitatório contamina a formalização do contrato (2ª fase), que deve ser declarada irregular, mas não enseja a aplicação de nova sanção ao responsável, que já penalizado na primeira fase, em respeito ao Princípio do non bis in idem."
+
+*(Fonte: TCE-MS — inteiros teores em PDF oficial. Texto literal; reproduzido também em `juris_integra.md`, item 1.5.)*
 
 **TCU — Acórdão n.º 2953/2025-Plenário (Ata 50/2025, 08/12/2025), Rel. Min. Marcos Bemquerer:**
 > *“[…] foi reconhecida a detração integral de sanção aplicada pela Controladoria-Geral da União, em virtude da sobreposição de base fática. […]”*
@@ -105,7 +104,7 @@ Para a **modicidade e o equilíbrio** como limites do desconto por desempenho em
 > *“[…] ordenado que a Administração Municipal estabeleça nova negociação sobre os investimentos do contrato, visando manter o equilíbrio econômico-financeiro e a modicidade tarifária. […]”*
 > Fonte: TCE-SC (e-papyrus) — conferir inteiro teor.
 
-> *Observação de honestidade analítica:* os acórdãos do TCE-MS e o TCU 2953/2025 aplicam o *non bis in idem*/detração em **contextos diversos** (contas, sanção concorrencial), não em desconto por desempenho de concessão. Servem para **confirmar a vigência do princípio** no controle externo, aplicável **por analogia** à tríplice incidência aqui examinada. Não se localizou, na base, precedente **idêntico** sobre Fator de Desempenho — daí a sustentação primária na **âncora legal e principiológica** (arts. 6.º, 9.º, 23, VIII e 38 da Lei 8.987/1995; art. 2.º da Lei 9.784/1999).
+> *Observação de honestidade analítica:* as ementas do TCE-MS acima são **texto oficial literal** (extraído dos PDFs), ao passo que o **TCU — Acórdão 2953/2025** abaixo está disponível apenas como **resumo do provedor** (confirmar inteiro teor). Todas aplicam o *non bis in idem*/detração em **contextos diversos** (contas, sanção concorrencial), e **não** em desconto por desempenho de concessão — servem para **confirmar a vigência do princípio** no controle externo, aplicável **por analogia** à tríplice incidência aqui examinada. Não se localizou precedente **idêntico** sobre Fator de Desempenho — daí a sustentação primária na **âncora legal e principiológica** (arts. 6.º, 9.º, 23, VIII e 38 da Lei 8.987/1995; art. 2.º da Lei 9.784/1999).
 
 ### B.5. Contra-argumento e réplica
 *Contra-argumento.* O Fator de Avaliação é **incentivo** (não sanção), o reequilíbrio está assegurado em revisão e as metas seguem o PLANARES.
