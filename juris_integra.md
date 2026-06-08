@@ -28,6 +28,19 @@ Transcrição literal do documento oficial (Proposta de Voto GAC/HJN-690/2022):
 > 4. Nos casos de prorrogação excepcional de contrato de concessão de prestação de serviços públicos de natureza essencial, o Agente Público deve adotar medidas tempestivas para o estabelecimento de uma nova concessão, podendo vir a ser responsabilizado pela omissão ou desídia em não fazer cessar a prorrogação excepcional do contrato."
 *(Fonte: TCE-SC, inteiro teor em PDF oficial — Gabinete Cons. Herneus João De Nadal.)*
 
+### 1.5. TCE-MS — *non bis in idem* (EMENTAS na íntegra, extraídas dos PDFs oficiais)
+
+**Acórdão n.º 595/2021 — Rel. Cons. Waldir Neves Barbosa (Prefeitura Municipal de Três Lagoas):**
+> "CONTRATO ADMINISTRATIVO – FORNECIMENTO DE MEDICAMENTOS – TERMO ADITIVO – FORMALIZAÇÃO – CONTAMINAÇÃO PELA ILICITUDE DA PRIMEIRA FASE – IRREGULARIDADE – PRINCÍPIO DO NO BIS IN IDEM – PENALIDADE NÃO IMPOSTA. A ilicitude do procedimento licitatório atrai o reconhecimento da irregularidade da formalização do contrato e do termo aditivo em razão do vínculo direto e legal, porém sem imposição da sanção de multa, que aplicada pela ilegalidade do certame, em respeito ao Princípio do no bis in idem."
+
+**Acórdão n.º 441/2021 — Rel. Cons. Waldir Neves Barbosa (Prefeitura Municipal de Corguinho) — item 1 da ementa:**
+> "1. O comando posto no art. 49, § 2º, e art. 59, Parágrafo único, da Lei Federal nº 8.666/93, é claro ao afirmar que a nulidade do procedimento licitatório induz a nulidade do contrato. Verificada a reprovação do procedimento licitatório, não há como se chancelar o contrato administrativo dele decorrente, que deve ser reconhecido como irregular, mas sem a imposição de multa quanto a este, em respeito ao Princípio do no bis is idem, diante da aplicação da sanção ao ordenador de despesas no julgamento contrário da 1ª fase."
+
+**Acórdão n.º 487/2022 — Rel. Cons. Marcio Campos Monteiro (Prefeitura Municipal de Sete Quedas) — item 1 da ementa:**
+> "1. A irregularidade do procedimento licitatório contamina a formalização do contrato (2ª fase), que deve ser declarada irregular, mas não enseja a aplicação de nova sanção ao responsável, que já penalizado na primeira fase, em respeito ao Princípio do non bis in idem."
+
+*(Fonte: TCE-MS — inteiros teores em PDF oficial, obtidos via jurisprudencia-api.tce.ms.gov.br/Alfresco.)*
+
 ---
 
 ## Seção 2 — Enunciado de jurisprudência (verbatim de fonte secundária; confirmar no portal do TCU)
@@ -48,7 +61,7 @@ Enunciado, atribuído ao **Acórdão 1.842/2013-Plenário** (e à Súmula 275/TC
 | **TCU — Jurisprudência Selecionada 25757/2016** (cumulatividade) | só resumo do provedor; base sem link | portal do TCU (pesquisa.apps.tcu.gov.br) — buscar enunciado/acórdão de origem (ver Seção 2.1) |
 | **TCU — Jurisprudência Selecionada 31252/2008** (prazo × amortização) | só resumo do provedor; base sem link | portal do TCU |
 | **TCU — Acórdão 2953/2025-Plenário** (detração de sanção / sobreposição de base fática) | só resumo do provedor | contas.tcu.gov.br/pesquisaJurisprudencia (Acórdão completo) |
-| **TCE-MS — Acórdãos 595/2021, 441/2021, 487/2022** (*non bis in idem*) | só resumo do provedor (links Alfresco binários) | jurisprudencia-api.tce.ms.gov.br / portal TCE-MS |
+| ~~**TCE-MS — Acórdãos 595/2021, 441/2021, 487/2022**~~ (*non bis in idem*) | **✅ obtidos na íntegra — ver item 1.5** | — |
 | **TCE-SC — Acórdão 309/2021** (equilíbrio/modicidade em concessão de água) | só resumo do provedor | TCE-SC (e-papyrus) |
 
 **Conteúdo essencial a confirmar (não literal):** os acórdãos do TCE-MS aplicam o princípio do *non bis in idem* ("proíbe a dupla punição pelo mesmo fato") deixando de impor nova multa quando já houve sanção pela mesma base fática; o Acórdão TCU 2953/2025 reconhece **detração** de sanção por sobreposição de base fática. Servem, por analogia, para sustentar a vedação à tríplice incidência do sistema de desempenho — mas a **transcrição literal** depende do inteiro teor oficial.
