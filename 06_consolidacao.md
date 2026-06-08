@@ -12,7 +12,7 @@ O edital é, no núcleo, juridicamente bem-construído (habilitação dentro do 
 | # | Achado | Documento + cláusula | Âncora | Precedente | Contra-argumento provável | Observação para a peça |
 |---|---|---|---|---|---|---|
 | **I-1** | Sistema de desempenho cumula redução tarifária (até 15%, FA 0,850) + multa (0,5%) + caducidade (NGD <70% por 3 anos) pela mesma falha; metas socioambientais (ID2.1/2.2) binárias e dependentes da separação na fonte pelo usuário | Contrato 12.3, 37.21, 43.5.3; Anexo 2 (Q.13); Anexo 4 (Tab. 3) | art. 23, parágrafo único, e art. 38 da Lei 8.987/1995; proporcionalidade/razoabilidade | TCU sobre proporcionalidade de SMD — verificar; TCE-MG — verificar no portal | Sistema de indução de comportamento; reequilíbrio em revisão | Pedir desvinculação das metas dependentes de terceiros do gatilho de caducidade e vedar tripla incidência sobre o mesmo fato |
-| **I-2** | Valor mínimo de indenização em branco ("R$ [•]") | Anexo Edital, p. 154; Anexo Contrato 6 | art. 23, V, e art. 36 da Lei 8.987/1995 | — | Campo de modelo a preencher | Sem o parâmetro, a proposta não pode precificar a extinção antecipada — exigir preenchimento antes da entrega |
+| **I-2** | Valor mínimo de indenização em branco ("R$ [•]") | Anexo Edital, p. 154; Anexo Contrato 6 | art. 23, V, e art. 36 da Lei 8.987/1995 | **TCU, Jur. Selecionada 144791/2023** (edital deve indicar o valor da indenização da concessionária) | Campo de modelo a preencher | Sem o parâmetro, a proposta não pode precificar a extinção antecipada — exigir preenchimento antes da entrega |
 
 ## Bloco 2 — Pedido de esclarecimento
 
@@ -22,7 +22,7 @@ O edital é, no núcleo, juridicamente bem-construído (habilitação dentro do 
 | **E-2** | Coeficiente de geração 4,6231 (contrato) × 4,5741 (PN) | Anexo Contrato 4, 6.2.1; PN | art. 9.º da Lei 8.987/1995 | Confirmar o valor vigente, base da revisão quadrienal |
 | **E-3** | Inclusão de municípios adicionais × vedação do art. 6.º, §16, do Decreto 11.599/2023 | Contrato 23.10, 36.18 | art. 6.º, §16, Decreto 11.599/2023 | Esclarecer alcance da inclusão pós-homologação para fins de receita extraordinária (apontado pela própria ARISB-MG) |
 | **E-4** | Situação do convênio de cofaturamento com a prestadora de água (COPASA) | Anexo Contrato 4, 2.5; Contrato 22.3.5 | Lei 11.445/2007; NR ANA | Esclarecer se há instrumento de cooperação firmado e os custos do cofaturamento, dado que o risco é da concessionária |
-| **E-5** | Cumulatividade de capital social (5%) + garantias (proposta 1% + execução 5%) | EDITAL 18.3.4.1, 11.1; Contrato 34.1 | art. 69, §4.º, da Lei 14.133/2021; **Súmula 275/TCU** | Confirmar não cumulatividade vedada (Súmula 275/TCU) |
+| **E-5** | Cumulatividade de capital social (5%) + garantias (proposta 1% + execução 5%) | EDITAL 18.3.4.1, 11.1; Contrato 34.1 | art. 69, §4.º, da Lei 14.133/2021; **Súmula 275/TCU**; **TCU, Jur. Selecionada 25757/2016** (garantia + capital/PL = irregular) | Confirmar não cumulatividade vedada — precedente do TCU confirmado |
 | **E-6** | Norma da ARISB-MG pode adotar critérios "diversos" do contrato em reajuste/revisão | Contrato 27.9, 28.6, 4.2.5 | art. 9.º, §2.º, Lei 8.987/1995; segurança jurídica | Esclarecer o alcance da sobreposição regulatória sobre a equação econômico-financeira |
 
 ## Bloco 3 — Risco a precificar
