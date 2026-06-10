@@ -39,3 +39,56 @@
 - **Permanecem com âncora legal, sem precedente direto na base:** C.4 SMD/proporcionalidade; C.6 inadimplência; C.7 cofaturamento (ângulo judicial fica no DataJud/web).
 
 > Fonte primária dos precedentes: `jurisprudencia_tce.md` (gerado pela API Lei na Mão, com links oficiais). TCU em *jurisprudência selecionada* (enunciados); confirmar inteiro teor/nº de acórdão no portal do TCU antes de peça formal.
+
+---
+
+# RODADA 2 — Varredura adversarial complementar (cláusulas procedimentais, sancionatórias e de garantia)
+_Nova leitura do EDITAL e do CONTRATO focada no que não havia sido flagrado. Transcrições conferidas no texto extraído dos PDFs._
+
+## R2-1. Multas pré-contratuais calculadas sobre o VALOR ESTIMADO (VPL de 30 anos de receita)
+**Cláusula:** EDITAL 19.4.1/19.4.2 — multa de 0,5% (= **R$ 8,72 mi**) ou 1% (= **R$ 17,43 mi**) "do VALOR ESTIMADO DA CONTRATAÇÃO", executável na garantia de proposta, por infrações como "não manter a proposta" (19.1.1) ou "não celebrar o contrato" (19.1.2).
+**Fragilidade:** a base de cálculo é o **VPL das receitas de 30 anos** (R$ 1,743 bi) — não o valor de um exercício nem o custo do certame. Multa pré-contratual sobre essa base produz sanção **manifestamente desproporcional** ao dano possível na fase de licitação. O art. 156, §3.º, da Lei 14.133/2021 usa "valor do contrato licitado" — em concessão, a leitura literal explode a sanção; impõe-se leitura conforme a proporcionalidade (art. 2.º da Lei 9.784/1999).
+**Jurisprudência:** TCE-PE, Acórdão 0087421/2021, Rel. Adriano Cisneiros (multa "não era razoável nem proporcional" — provimento; resumo do provedor, confirmar inteiro teor). Sem precedente direto sobre base de cálculo em concessão na base consultada.
+**Encaminhamento: impugnar/esclarecer** (fixar base proporcional — ex.: % sobre a garantia de proposta).
+
+## R2-2. Cumulação automática de sanções por recusa em assinar — inclusive INIDONEIDADE — estendida a todos os consorciados
+**Cláusula:** EDITAL 18.5 + 18.5.1 — recusa em assinar acarreta execução **total** da garantia (R$ 17,4 mi) **e** "a suspensão temporária de participação em LICITAÇÃO, o impedimento de contratar com a Administração pelo período de 36 (trinta e seis) meses **e** a declaração de inidoneidade", atingindo, em consórcio, "**todos os consorciados**".
+**Fragilidade (tripla):** (i) a Lei 14.133/2021 **gradua** as sanções: a recusa de assinar ("não celebrar o contrato", art. 155, V) sujeita-se a **impedimento** (art. 156, III e §4.º); a **declaração de inidoneidade** é reservada às infrações graves do §5.º — a recusa **não está** no seu rol; cominá-la **automaticamente** viola a tipicidade sancionatória; (ii) a aplicação conjunta e automática suprime a **dosimetria** exigida pelo art. 156, §1.º; (iii) a extensão indistinta "a todos os consorciados" pune **sem individualização de conduta/culpa**.
+**Jurisprudência:** não localizado precedente direto na base; sustentação na âncora legal (arts. 155/156 da Lei 14.133/2021) e na culpabilidade.
+**Encaminhamento: impugnar** (adequar as sanções ao regime do art. 156, com dosimetria e individualização).
+
+## R2-3. Impedimento de participação a ex-quadros de seis entidades (360 dias) — fora do rol legal
+**Cláusula:** EDITAL 8.3.4 — veda a participação de pessoa jurídica cujos dirigentes/responsáveis técnicos tenham sido, nos 360 dias anteriores, ocupantes de cargo/emprego no CISPAR, BDMG, CODEMGE, SEMAD, **BID** e ARISB-MG, ou de cargos de direção no Governo de MG.
+**Fragilidade:** o rol de impedimentos do **art. 14 da Lei 14.133/2021 é taxativo**; o edital cria impedimento **novo** (ex-empregado de banco de fomento e de organismo internacional) sem base legal, alargando a vedação para além do conflito de interesses tipificado. Atinge profissionais do setor sem função no certame. *(Reclassificação: estava no apêndice "Menores" da análise; sobe para esclarecer/impugnar.)*
+**Encaminhamento: esclarecer/impugnar** (restringir ao rol legal/agentes com atuação no certame).
+
+## R2-4. Retenção prolongada da garantia de proposta dos não vencedores
+**Cláusula:** EDITAL 11.8.2 (devolução aos **não vencedores** somente "após a DATA DA ASSINATURA DO CONTRATO") e 11.8.3 (ao desistente, somente "**após 1 (um) ano** da abertura do certame").
+**Fragilidade:** retém capital de licitantes **derrotados** por período indeterminado (a assinatura pode tardar meses) e pune a desistência com retenção anual — sem amparo no art. 58 da Lei 14.133/2021 e com efeito restritivo sobre a participação (custo financeiro de manter R$ 17,4 mi imobilizados).
+**Encaminhamento: esclarecer/impugnar** (devolução após a homologação/adjudicação para os não vencedores).
+
+## R2-5. Prazo de 180 dias para comunicar evento de desequilíbrio (risco de decadência convencional)
+**Cláusula:** CONTRATO 36.11 — a parte "deverá comunicá-lo à outra, em prazo não superior a 180 (cento e oitenta) dias contados de sua materialização".
+**Fragilidade:** a cláusula não explicita a consequência da inobservância — abre-se a leitura de **decadência convencional** de um direito (recomposição do equilíbrio) que tem matriz legal e constitucional (art. 37, XXI, CF; arts. 9.º/10 da Lei 8.987/1995) e que a lei não sujeita a prazo extintivo. Para eventos **continuados** (ex.: descasamento de custos), o termo inicial é indeterminável.
+**Encaminhamento: esclarecer** (confirmar que o prazo é ordinatório/de contemporaneidade, não extintivo; disciplinar eventos continuados).
+
+## R2-6. Quitação "completa, geral e irrestrita" na indenização administrativa
+**Cláusula:** Anexo do Contrato 6, item 1.6 — o pagamento administrativo aceito "corresponderá à quitação completa, geral e irrestrita [...], não podendo a CONCESSIONÁRIA exigir, administrativa ou judicialmente, a qualquer título, outras indenizações, inclusive por lucros cessantes e danos emergentes".
+**Fragilidade:** renúncia antecipada e ampla a diferenças indenizatórias, inclusive **danos emergentes** — em tensão com a indenização devida na encampação (arts. 36/37 da Lei 8.987/1995) e com a vedação ao enriquecimento sem causa. Na prática, força a concessionária a litigar **antes** de receber qualquer valor.
+**Encaminhamento: alocar/negociar + precificar** (ressalvar diferenças apuradas posteriormente).
+
+## R2-7. Preclusão total de reclamação (cláusula de conformidade tácita)
+**Cláusula:** EDITAL 6.7 — sem impugnações, "não restando direito a qualquer reclamação ulterior pelas PROPONENTES".
+**Fragilidade:** vícios de **legalidade não convalescem** por ausência de impugnação (controle externo e judicial permanecem abertos — art. 5.º, XXXV, CF; art. 170 da Lei 14.133/2021); a cláusula tem efeito intimidatório, mas é juridicamente inoponível.
+**Encaminhamento: apêndice "Menores"** (registrar; não impugnar isoladamente).
+
+## Saldo da Rodada 2
+| # | Fragilidade | Força | Encaminhamento |
+|---|---|---|---|
+| R2-1 | Multa pré-contratual sobre VPL de 30 anos | Alta (proporcionalidade) | Impugnar/esclarecer |
+| R2-2 | Inidoneidade automática por recusa + extensão a consorciados | **Alta (tipicidade do art. 156)** | Impugnar |
+| R2-3 | Impedimento a ex-quadros fora do rol do art. 14 | Média-alta (taxatividade) | Esclarecer/impugnar |
+| R2-4 | Retenção da garantia dos não vencedores | Média | Esclarecer/impugnar |
+| R2-5 | 180 dias p/ comunicar desequilíbrio | Média (risco interpretativo) | Esclarecer |
+| R2-6 | Quitação irrestrita na indenização | Média | Negociar/precificar |
+| R2-7 | Preclusão de reclamação | Baixa | Menores |
