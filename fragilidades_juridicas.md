@@ -92,3 +92,53 @@ _Nova leitura do EDITAL e do CONTRATO focada no que não havia sido flagrado. Tr
 | R2-5 | 180 dias p/ comunicar desequilíbrio | Média (risco interpretativo) | Esclarecer |
 | R2-6 | Quitação irrestrita na indenização | Média | Negociar/precificar |
 | R2-7 | Preclusão de reclamação | Baixa | Menores |
+
+---
+
+# RODADA 3 — Releitura integral (seguros, tarifa, terceiros, desapropriação, Ordem de Serviço)
+_Varredura de cláusulas operacionais/contratuais ainda não destacadas. Transcrições conferidas no PDF do contrato._
+
+## R3-1. Seguros e respectivos limites definidos por REGULAMENTO FUTURO do Poder Concedente
+**Cláusula:** Contrato 35.1 — a concessionária deve manter seguros "**nas condições estabelecidas pelo PODER CONCEDENTE, conforme regulamentação**"; e 35.5 — limites "calculados com base no **maior dano provável**".
+**Fragilidade:** as **coberturas e os limites** (parcela relevante do OPEX) não são definidos no edital — ficam a cargo de **regulamento futuro** e de conceito aberto ("maior dano provável"). A proponente precifica **no escuro** e fica exposta a **majoração unilateral** do custo de seguros pós-assinatura, sem gatilho expresso de reequilíbrio. Tensão com a vinculação ao instrumento e com a equação econômico-financeira (art. 9.º da Lei 8.987/1995).
+**Encaminhamento: esclarecer/precificar** (fixar coberturas/limites mínimos no edital ou prever reequilíbrio se a regulação superveniente os majorar).
+
+## R3-2. Cobrança de RSD a usuários NÃO atendidos por abastecimento de água (VAF presumido de 10 m³)
+**Cláusula:** Anexo do Contrato 4, item 3.3.5 — "Caso a economia USUÁRIA não seja atendida por serviço público de abastecimento de água, será cobrada a tarifa mínima, correspondente ao VAF no valor de 10 m³."
+**Fragilidade:** o **proxy** (volume de água) **inexiste** para esses usuários — a tarifa vira valor presumido fixo, dissociado de qualquer parâmetro de geração; e a **cobrança direta** (fora do cofaturamento) depende de cadastro que o Poder Concedente deve fornecer (cadastro imobiliário), transferindo à concessionária o **ônus de identificar e cobrar** + risco de inadimplência e de questionamento individual da cobrança. Combina-se ao risco do cofaturamento (C.7).
+**Encaminhamento: esclarecer/precificar** (definir fonte do cadastro e tratamento da inadimplência desse grupo).
+
+## R3-3. Sub-rogação dos contratos com terceiros ao Poder Concedente "a critério do sub-rogatário"
+**Cláusula:** Contrato 21.3.1 — os contratos da concessionária com terceiros "deverão [...] prever cláusula de sub-rogação ao PODER CONCEDENTE **ou a quem este indicar, a ser exercida a critério do sub-rogatário**".
+**Fragilidade:** impõe à concessionária **obrigar todos os seus fornecedores/subcontratados** a aceitar sub-rogação potestativa em favor do concedente (ou de terceiro por ele indicado), exercível **unilateralmente**. Pode **encarecer/dificultar** a contratação da cadeia (fornecedores resistem a cláusula potestativa) e afeta a **financiabilidade**. Sem contrapartida nem gatilho de reequilíbrio.
+**Encaminhamento: esclarecer/negociar** (limitar a sub-rogação às hipóteses de extinção/intervenção e mediante condições objetivas).
+
+## R3-4. Desapropriação tratada como mero "auxílio", com custo integral na concessionária
+**Cláusula:** Contrato 17.1 — "A CONCESSIONÁRIA **poderá solicitar ao PODER CONCEDENTE auxílio** na aquisição de imóveis, por meio da desapropriação [...]"; custos de desapropriação/servidão são da concessionária (Matriz D-1).
+**Fragilidade:** a desapropriação é ato de **poder de polícia exclusivo do Poder Público** — a concessionária não pode declará-la nem efetivá-la; tratá-la como "auxílio" facultativo (e não como **dever** do concedente de promover a DUP e a ação) enfraquece a posição da concessionária, que arca com o **custo** mas **depende** do concedente para viabilizar áreas do aterro/UVR/transbordo. A Matriz aloca ao concedente apenas o **atraso superior a 6 meses** na DUP — abaixo disso, o risco de mora corre contra a concessionária.
+**Encaminhamento: negociar/esclarecer** (converter "auxílio" em dever do concedente de promover a DUP e a ação em prazo certo).
+
+## R3-5. Ausência de prazo objetivo para o Poder Concedente emitir a Ordem de Serviço
+**Cláusula:** Contrato 15.1.10 — o concedente emite a Ordem de Serviço "**desde que** a CONCESSIONÁRIA atenda integral e corretamente todas as exigências", sem prazo-limite para o ato uma vez cumpridas as condições; a Fase 1 (pré-operacional, **sem cobrança de tarifa**) dura até 200 dias aguardando a OS.
+**Fragilidade:** cumpridas as condições, **não há prazo nem consequência** para a inércia do concedente na emissão da OS — que é o **marco do início da receita**. Embora a Matriz aloque ao concedente o "atraso na OS não imputável à concessionária", a **falta de prazo objetivo** mantém a concessionária em Fase 1 (custo sem receita) por período indeterminado. 
+**Encaminhamento: esclarecer/negociar** (fixar prazo para emissão da OS após o cumprimento das condições, com reequilíbrio em caso de mora).
+
+## R3-6. Vedação absoluta à subconcessão
+**Cláusula:** Contrato 21.1 — "[...] sendo vedada a realização de **subconcessão**."
+**Fragilidade:** o art. 26 da Lei 8.987/1995 **admite** a subconcessão (com autorização e licitação). A vedação total é **lícita** (opção do concedente), mas reduz a flexibilidade de estruturação e de eventual reorganização — registrar para fins de modelagem.
+**Encaminhamento: apêndice "Menores"** (lícito; sem impugnação).
+
+## R3-7. Divergência no valor da verba de regulação
+**Cláusula:** Contrato 18.5 — **R$ 0,52/economia/mês**; Plano de Negócios indica **R$ 0,56/economia/mês**.
+**Encaminhamento: apêndice "Menores"** (esclarecer o valor vigente; impacta o OPEX).
+
+## Saldo da Rodada 3
+| # | Fragilidade | Tipo | Encaminhamento |
+|---|---|---|---|
+| R3-1 | Seguros/limites por regulamento futuro | indefinição de custo + risco regulatório | Esclarecer/precificar |
+| R3-2 | Cobrança de usuários sem água (VAF presumido) | proxy arbitrário + ônus de cobrança | Esclarecer/precificar |
+| R3-3 | Sub-rogação potestativa dos contratos com terceiros | onera cadeia/financiabilidade | Esclarecer/negociar |
+| R3-4 | Desapropriação como "auxílio" | risco de mora/inviabilidade locacional | Negociar/esclarecer |
+| R3-5 | Sem prazo p/ emissão da Ordem de Serviço | Fase 1 indefinida sem receita | Esclarecer/negociar |
+| R3-6 | Vedação absoluta à subconcessão | lícito; flexibilidade | Menores |
+| R3-7 | Verba de regulação R$ 0,52 × R$ 0,56 | inconsistência de versão | Menores |
