@@ -70,20 +70,28 @@ def field(it, *names):
     return "—"
 
 def fmt_item(it):
+    """Formata uma decisão no schema real da API (data[]): tribunals{code,name},
+    number, year, session_date, type, rapporteur, subject, ai_summary, cited_laws, source_url."""
     if not isinstance(it, dict):
         return f"- {it}"
-    trib = field(it, "tribunal", "tribunal_codigo", "court")
-    proc = field(it, "processo", "numero_processo", "process_number", "numero")
-    rel  = field(it, "relator", "rapporteur")
-    data = field(it, "data", "data_julgamento", "date", "ano", "year")
-    tipo = field(it, "type", "tipo")
-    ement= field(it, "ementa", "summary", "texto", "resumo", "title", "titulo")
-    if isinstance(ement, str) and len(ement) > 600:
-        ement = ement[:600] + "…"
-    url  = field(it, "url", "link", "fonte")
-    return (f"- **{trib} · {tipo} · {proc}** — Rel. {rel} — {data}\n"
-            f"  {ement}\n"
-            f"  {url if url!='—' else ''}".rstrip())
+    tr   = it.get("tribunals") or {}
+    trib = tr.get("name") or tr.get("code") or "—"
+    num  = it.get("number", "—"); year = it.get("year", "")
+    tipo = it.get("type", "")
+    rel  = it.get("rapporteur") or "—"
+    data = it.get("session_date", "")
+    subj = (it.get("subject") or "")[:180]
+    summ = it.get("ai_summary") or ""
+    if len(summ) > 500:
+        summ = summ[:500] + "…"
+    laws = ", ".join((it.get("cited_laws") or [])[:6])
+    url  = it.get("source_url") or ""
+    out = f"- **{trib} · {tipo} n.{num}/{year}** · {data}" + (f" · Rel. {rel}" if rel != "—" else "")
+    if subj: out += f"\n  - Assunto: {subj}"
+    if summ: out += f"\n  - Resumo (provedor — NÃO literal): {summ}"
+    if laws: out += f"\n  - Leis citadas: {laws}"
+    if url:  out += f"\n  - Fonte (inteiro teor): {url}"
+    return out
 
 # Buscas dirigidas para fechar as pendências de confirmação da análise CISPAR.
 QUERIES = [
